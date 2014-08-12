@@ -37,20 +37,40 @@
 
 ## During the Event
 
-* MC notes from 2nd event are available here, and 3rd event here.
 * Greet speakers when they arrive
 * Test A/V setup
 	* Do they need audio?
 	* Do they need adapters?
 	* Do they have a backup plan if their clicker / phone shuts down halfway through? Make sure presenter notes are on their display, and their presentation isn't mirrored
 * Tell each speaker when they're on, and tell them how Q&A will work
-* Announce event hashtag, wifi, bathroom locations
-* Introduce S&C (see our first draft at an S&C intro: Introduction to Style & Class)
-* Introduce speakers
+
+## MC Notes
+
+* Make sure to introduce the concept of Style & Class. Here's a template:
+
+> Style & Class is a community for those who design and build the front end of the web. We think there's a blurry line between designers and developers, with facets of both skills often existing in the same person. We want to create events that cater to that middle ground, presenting diverse topics that foster creativity, best practices, and process improvements. We expect to cover a wide range of topics, from multi-device web design, content strategy, CSS and Javascript techniques, user interfaces and experiences, to just about anything else you might find in the latest A Book Apart.
+
+* Announce event hashtag #styleclass, wifi
+* Mention bathroom locations
+* Set expectations about the format for the event
+* Thank sponsors
+
+* Introduce each speaker
 * Host follow-up Q&A
 	* Ask speakers to repeat each question
-	* Thank sponsors, tell everyone when we need to clear out of the space
-	* announce after-party plans, if any
+
+### Wrap Up
+
+* Thank sponsors again, mention they're hiring
+* Who else is hiring? 
+* 	* Have them raise their hands
+ 	* Ask for company names
+ 	* tell anyone looking for work to go talk to them
+* Announce next event if possible
+	* open mic for other event announcements
+* ask for help with cleaning up
+* tell everyone when we need to clear out of the space
+* announce after-party plans, if any
 * Clean up duties, see if anyone left anything behind, make sure to post to Meetup if so
 
 ## After the Event
