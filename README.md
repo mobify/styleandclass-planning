@@ -21,6 +21,8 @@ Over time we expect this repo to contain all of our collective knowledge about p
 	* [Speaker Support](https://github.com/mobify/styleandclass-planning/blob/master/how-tos/speaker-support.md)
 	* [Pre-announcement Checklist](https://github.com/mobify/styleandclass-planning/blob/master/how-tos/pre-announcement-checklist.md)
 	* [Host Checklist](https://github.com/mobify/styleandclass-planning/blob/master/how-tos/host-checklist.md)
+	* [Future Talk Planning](https://github.com/mobify/styleandclass-planning/blob/master/planning/future-talks.md)
+
 * _Event Archives_
 	* **Upcoming** Event #8 - ??, (Nov ??, 2014)]
 	* **Upcoming** [Event #7 - Lessons Learned From Real World Coding, (Sept 9 2014)](https://github.com/mobify/styleandclass-planning/blob/master/events/event7-code.md)
