@@ -4,7 +4,7 @@
 * Event leader: Dave Shea
 * Supporting crew: James Bryant
 
-Event Details
+## Event Details
 * Theme - Designing Your Design Process
 * Potential Speakers
 	* Todd Sieling - Frameworks for UX Thinking (confirmed)
@@ -57,6 +57,7 @@ In this talk, we'll look at the current state of Mobify's design processes and h
 * place beer order
 
 ### Additional Links
-* Style & Class Meetup Page
-* Beer & Food
+
+* [Style & Class Meetup Page](http://www.meetup.com/styleandclass/)
+* Beer Buying Guide
 * Planning Checklist

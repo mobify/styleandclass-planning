@@ -13,7 +13,8 @@ Over time we expect this repo to contain all of our collective knowledge about p
 	* [Pre-announcement Checklist](https://github.com/mobify/styleandclass-planning/blob/master/how-tos/pre-announcement-checklist.md)
 	* [Host Checklist](https://github.com/mobify/styleandclass-planning/blob/master/how-tos/host-checklist.md)
 * _Event Archives_
-	* **Event #7 - Code (Sept 9 2014)**
+	* **Upcoming** Event #8 - ??, (Nov ??, 2014)]
+	* **Upcoming** [Event #7 - Lessons Learned From Real World Coding, (Sept 9 2014)](https://github.com/mobify/styleandclass-planning/blob/master/events/event7-code.md)
 	* [Event #6 - Designing the Design Experience, (July 7 2014)](https://github.com/mobify/styleandclass-planning/blob/master/events/event6-ux.md)
 	* Event #5 - Making the Web for Everyone (May 13, 2014)
 	* Event #4 - Developing Design (March 11, 2014)
