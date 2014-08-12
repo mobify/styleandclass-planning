@@ -15,7 +15,7 @@
 
 ## Event Announcement
 
-* _moved to meetup.com, see previous events for template_
+* [Work in progress](http://www.meetup.com/styleandclass/events/195097832/) at meetup.com
 
 ## Talks
  
