@@ -30,6 +30,7 @@ Please add new ones, we're always looking for suggestions.
 * Todd Smith, @toddsmithdesign (Todd Smith Design. Topics: Graphic Design, Motion Design)
 * Shannon Tinkley (Hootsuite. Topics: UX, Design)
 * Johnathon Vaughn Strebly, @epixstudios (Epix Studios. Topics: Whatever John wants to talk about)
+* Annett Forcier, @The_Annett (Elvis Communications. Topics: Email coding & CSTLE law)
 
 ## Lightning Talks
 

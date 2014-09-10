@@ -63,9 +63,10 @@
 
 * Thank sponsors again, mention they're hiring
 * Who else is hiring? 
-* 	* Have them raise their hands
+	* Have them raise their hands
  	* Ask for company names
  	* tell anyone looking for work to go talk to them
+ 	* let's also mention http://heyavailable.com/ as a way of continuing that conversation
 * Announce next event if possible
 	* open mic for other event announcements
 * ask for help with cleaning up
