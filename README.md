@@ -24,7 +24,8 @@ Over time we expect this repo to contain all of our collective knowledge about p
 	* [Future Talk Planning](https://github.com/mobify/styleandclass-planning/blob/master/planning/future-talks.md)
 
 * _Event Archives_
-	* **Upcoming** [Event #8 - Design Storytelling, (Feb ?? 2014)](https://github.com/mobify/styleandclass-planning/blob/master/events/event8-designstories.md)
+    * **Upcoming** [Event #9 - Design Storytelling, (Feb ?? 2014)](https://github.com/mobify/styleandclass-planning/blob/master/events/event8-designstories.md)
+    * **Upcoming** [Event #8 - The Style & Class Conference, (Dec 13 2014)](https://www.eventbrite.com/e/the-style-class-conference-tickets-13842235499)
 	* [Event #7 - Lessons Learned From Real World Coding, (Sept 9 2014)](https://github.com/mobify/styleandclass-planning/blob/master/events/event7-code.md)
 	* [Event #6 - Designing the Design Experience, (July 7 2014)](https://github.com/mobify/styleandclass-planning/blob/master/events/event6-ux.md)
 	* Event #5 - Making the Web for Everyone (May 13, 2014)
