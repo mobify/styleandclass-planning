@@ -6,9 +6,8 @@ Start Here
 
 ### Plan the next S&C
 
-Awesome. This section needs a bunch of work, but the Speaker Bank and Pre-announcement checklist in particular should be useful:
+Awesome. This section needs a bunch of work, but the Pre-announcement checklist in particular should be useful:
 
-* Speaker Bank
 * Pre-announcement Checklist
 * Speaker Support
 
