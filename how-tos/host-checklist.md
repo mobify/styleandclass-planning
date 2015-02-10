@@ -22,7 +22,9 @@
 
 * Send out reminder email to meetup group - refer to this template
 * Remind attendees to change RSVP to NO to open up waiting list spots
-* Contact Joe Palmer at CRAFT to reserve a few tables for apres - https://twitter.com/JoeAtCBM – or not, we don't like CRAFT anymore. Let's use Tap & Barrel, contact is village@tapandbarrel.com
+* Reserve a few tables for apres. Depends on venue:
+	* Tap & Barrel, contact is village@tapandbarrel.com
+	* New Oxford in Yaletown is good for larger groups
 
 ## Day Of Prep
 
