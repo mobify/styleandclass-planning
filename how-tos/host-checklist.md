@@ -1,5 +1,9 @@
 # Host Checklist
 
+## As Soon As Possible
+
+* Get a liquor license for the venue
+
 ## Two Weeks Before
 
 * determine budget
